@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amine Dana</h1>
 <h3 align="center">A passionate mern stack developer from Algeria</h3>
-<img align="center" width="400"  src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif" />
+<img align="right" width="400"  src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif" />
 - 🔭 I’m currently study **Computer Science**
 
 - 🌱 I’m currently learning **Express Js**
