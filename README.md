@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left" style="margin-top:"20px">Languages and Tools:</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 500px;margin-top:"20px;">
+<div style="display: grid; justify-content: space-between; max-width: 500px;margin-top:20px;margin-bottom: '100px';">
   <!-- List of languages and tools icons -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
