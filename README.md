@@ -2,7 +2,7 @@
 
 **`Junior Backend Developer | USTHB 2nd Year Student`**
 
-Hello there! I'm a passionate MERN stack web developer with a strong love for building innovative and user-friendly web applications. With year of experience in the field 
+Hello there! I'm a passionate MERN stack web developer with a strong love for building innovative and user-friendly web applications. With 2 years of experience in the field 
 
 
 ### 🧰 Languages and Tools
