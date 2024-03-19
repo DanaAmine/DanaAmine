@@ -52,15 +52,10 @@ Hello there! I'm a passionate MERN stack web developer with a strong love for bu
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     
 </p>
-#
+
 
 ### 📊 Stats
 
-![Rahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanaAmine&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
 
 Contact me :
 [discord]: AmineDana#6721
