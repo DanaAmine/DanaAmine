@@ -1,4 +1,9 @@
-# 🚀  Amine Dana
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Amine+Dana,+Here!+👋+#&center=true&size=30">
+  </a>
+</h1>
+
 
 **`Junior Backend Developer | USTHB 2nd Year Student`**
 
