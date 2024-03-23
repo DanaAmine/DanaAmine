@@ -5,7 +5,7 @@
 </h1>
 
 
-**`Junior Backend Developer | USTHB 2nd Year Student`**
+**`Junior Express Developer || Cs Student`**
 
 Hello there! I'm a passionate MERN stack web developer with a strong love for building innovative and user-friendly web applications. With 2 years of experience in the field 
 
